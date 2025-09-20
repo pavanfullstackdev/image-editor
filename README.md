@@ -3,6 +3,8 @@
 A simple image editor built with **React**, **TailwindCSS**, and **React Photo Editor**.  
 Upload an image, edit it, and download the edited version with a dynamic filename.
 
+# live demo
+https://imageeditormodern.netlify.app/
 ---
 
 ## 🚀 Features
